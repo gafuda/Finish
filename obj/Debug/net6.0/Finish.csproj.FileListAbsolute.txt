@@ -1,0 +1,15 @@
+C:\Users\Мари\Desktop\Finish\bin\Debug\net6.0\Finish.exe
+C:\Users\Мари\Desktop\Finish\bin\Debug\net6.0\Finish.deps.json
+C:\Users\Мари\Desktop\Finish\bin\Debug\net6.0\Finish.runtimeconfig.json
+C:\Users\Мари\Desktop\Finish\bin\Debug\net6.0\Finish.dll
+C:\Users\Мари\Desktop\Finish\bin\Debug\net6.0\Finish.pdb
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.csproj.AssemblyReference.cache
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.AssemblyInfoInputs.cache
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.AssemblyInfo.cs
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.csproj.CoreCompileInputs.cache
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.dll
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\refint\Finish.dll
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.pdb
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\Finish.genruntimeconfig.cache
+C:\Users\Мари\Desktop\Finish\obj\Debug\net6.0\ref\Finish.dll
